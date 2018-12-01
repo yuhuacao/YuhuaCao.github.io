@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "AI trip"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-12-02 4:00:00
+author:     "YuhuaCao"
+header-img: "img/"
+catalog: true
+tags:
+    - 感悟
+    - 开始
+---
+
+
+
+
+2015年6月，我毕业了，开始了打工生涯。怀着一颗航空包裹梦以及对尖端技术的好奇心，我加入了商发这个大家庭。原本做着与研究生生涯相同的本职工作，一年多以后打破了。领导让我开始部门的发动机故障诊断工作，让我机缘巧合地开始与算法有了联系。
+
+
+
+
+—— YuhuaCao 后记于 2018.12
+
+
